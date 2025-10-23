@@ -17,4 +17,9 @@
     <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node Badge"/>
     <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React Badge"/>
   </p>
+<pre>
+  <img src="https://github.com/BrainRotCoder/BrainRotCoder/blob/main/Stuff4RdMe/techpriest-warhammer40k.gif" align="left" height="250px"/>
+  <br><br>
+  <p align="left"> May the omnisiah bless you all on your seek for knowledge my brethren</p>
+</pre>
 </div>
